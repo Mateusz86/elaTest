@@ -2,3 +2,7 @@ body{
 	background:#ggg;
 	font-family:Arial;	
 }
+h1{
+	color:red;
+	text-decoration: underline;
+}
